@@ -1,5 +1,5 @@
 {
-  "name": "modulo01",
+  "name": "modulo01-victhor",
   "version": "1.0.0",
   "description": "Primeiro Módulo NPM",
   "main": "index.js",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/victhorplus/modulo-npm/issues"
   },
-  "homepage": "https://github.com/victhorplus/modulo-npm#readme"
+  "homepage": "https://github.com/victhorplus/modulo-npm#readme",
+  "keywords": []
 }
