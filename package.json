@@ -1,0 +1,19 @@
+{
+  "name": "modulo01",
+  "version": "1.0.0",
+  "description": "Primeiro Módulo NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victhorplus/modulo-npm.git"
+  },
+  "author": "victhor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victhorplus/modulo-npm/issues"
+  },
+  "homepage": "https://github.com/victhorplus/modulo-npm#readme"
+}
