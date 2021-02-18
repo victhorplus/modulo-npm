@@ -1,3 +1,1 @@
-module.exports = {
-    printMsg: ()=> console.log("Hello World")
-}
+export { default as font } from './lib/font'
