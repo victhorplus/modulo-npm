@@ -1,3 +1,3 @@
-exports = {
-    printMsg: ()=> console.log("Hellow World")
+module.exports = {
+    printMsg: ()=> console.log("Hello World")
 }
